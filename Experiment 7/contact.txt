@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Deep
+FN:Deep Nayak
+TEL;TYPE=voice,cell,pref:9324066513
+TITLE:Software Engineer
+ORG:SPIT
+EMAIL:deepmumbai16@gmail.com
+URL:www.https://www.linkedin.com/in/deep-nayak-4a81751b2/
+END:VCARD
+
